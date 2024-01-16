@@ -5,7 +5,9 @@
 <p>Hello, I'm José, a proactive 23-year-old technology enthusiast with a passion for learning. Currently taking my first steps in programming, focusing on Full Stack Web Development, I immerse myself in this exciting journey daily, enhancing my skills to turn my aspirations into reality in the tech industry.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif">
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif">
+</p>
 
 ### Technologies I use
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,4 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" width="300px" src="https://res.cloudinary.com/teepublic/image/private/s--gds73p1D--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1446246199/production/designs/303833_1.jpg">
+<p align="center">
+  <img align="center" width="300px" src="https://res.cloudinary.com/teepublic/image/private/s--gds73p1D--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1446246199/production/designs/303833_1.jpg">
+</p>
