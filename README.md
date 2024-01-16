@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 I'm José Moyán
+## Full-stack web developer student.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19DF00&random=false&width=435&lines=Hola+mundo!;Soy+programador;Full+Stack" alt="Typing SVG" /></a>
 <!--
 **Elessar0877/Elessar0877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
